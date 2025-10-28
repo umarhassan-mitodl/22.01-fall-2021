@@ -69,7 +69,7 @@ Working together is OK, and required on the difficult problems (noodle scratcher
 3. State who did which parts of the assignment. If we sense that someone is doing almost all the work, we will meet with you to prevent this sort of thing.
 4. It's OK to take one set of data together as a team, as long as you say who took the data.
 
-In addition, all students must read the [MIT guidelines on academic honesty and integrity](http://integrity.mit.edu/).
+In addition, all students must read the {{% resource_link "065cfe85-15a1-4d8b-987d-75da828305b4" "MIT guidelines on academic honesty and integrity" %}}.
 
 ## Late Policy
 
